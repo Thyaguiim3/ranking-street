@@ -1,0 +1,127 @@
+[
+	{
+		
+		"coroas": "prata.png",
+		"nome": "HackerMK",
+		"ws_": 12,
+		"ls_": 5,
+		"pontos": 1,
+		"tp_": 10,
+		"posicao": 1,
+		"futuras_imagens": "NoImage",
+		"vermelhos": 0
+	},
+	{
+		"coroas": "platina.png",
+		"nome": "Desguito",
+		"ws_": 12,
+		"ls_": 7,
+		"pontos": 2,
+		"tp_": 20,
+		"posicao": 4,
+		"futuras_imagens": "NoImage",
+		"vermelhos": 0
+	},
+	{
+		"coroas": "bronze.png",
+		"nome": "Felipe_foice",
+		"ws_": 3,
+		"ls_": 7,
+		"pontos": 3,
+		"tp_": 8,
+		"posicao": 7,
+		"futuras_imagens": "NoImage",
+		"vermelhos": 0
+	},
+	{
+		"coroas": "ouro.png",
+		"nome": "Guaxi",
+		"ws_": 22,
+		"ls_": 10,
+		"pontos": 70,
+		"tp_": 20,
+		"posicao": 4,
+		"futuras_imagens": "NoImage",
+		"vermelhos": 0
+	},
+	{"coroas": "prata.png",
+	"nome": "Donn",
+	"ws_": 15,
+	"ls_": 19,
+	"pontos": 60,
+	"tp_": 25,
+	"posicao": 6,
+	"futuras_imagens": "NoImage",
+	"vermelhos": 0
+
+	},
+	{
+		"coroas": "ouro.png",
+		"nome": "Alones",
+		"ws_": 12,
+		"ls_": 7,
+		"pontos": 50,
+		"tp_": 20,
+		"posicao": 4,
+		"futuras_imagens": "NoImage",
+		"vermelhos": 0
+	},
+	{
+		"coroas": "platina.png",
+		"nome": "TioShin",
+		"ws_": 12,
+		"ls_": 7,
+		"pontos": 40,
+		"tp_": 20,
+		"posicao": 4,
+		"futuras_imagens": "NoImage",
+		"vermelhos": 0
+	},
+	{
+		"coroas": "platina.png",
+		"nome": "Samuh",
+		"ws_": 12,
+		"ls_": 7,
+		"pontos": 30,
+		"tp_": 20,
+		"posicao": 4,
+		"futuras_imagens": "NoImage",
+		"vermelhos": 0
+	},
+	{
+		"coroas": "ouro.png",
+		"nome": "Artur",
+		"ws_": 12,
+		"ls_": 7,
+		"pontos": 20,
+		"tp_": 20,
+		"posicao": 4,
+		"futuras_imagens": "NoImage",
+		"vermelhos": 0
+	},
+	{
+		"coroas": "prata.png",
+		"nome": "KillerShaolin",
+		"ws_": 12,
+		"ls_": 7,
+		"pontos": 300,
+		"tp_": 20,
+		"posicao": 4,
+		"futuras_imagens": "NoImage",
+		"vermelhos": 0
+	},
+	{	
+		"coroas": "ultra",
+		"nome": "Jogador X",
+		"ws_": 12,
+		"ls_": 7,
+		"pontos": 999,
+		"tp_": 20,
+		"posicao": 4,
+		"futuras_imagens": "NoImage",
+		"vermelhos": 0
+
+}
+
+
+]
